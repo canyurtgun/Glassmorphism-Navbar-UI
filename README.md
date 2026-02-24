@@ -35,12 +35,12 @@ Bu proje, saf **HTML, CSS ve Vanilla JavaScript** kullanılarak sıfırdan inşa
 
 ### 🚀 Kullanım
 
-Projeyi klonlayın veya `sayfa.html` dosyasını doğrudan tarayıcınızda açın:
+Projeyi klonlayın veya `index.html` dosyasını doğrudan tarayıcınızda açın:
 
 ```bash
-git clone https://github.com/kullanici-adi/repo-adi.git
-cd repo-adi
-# sayfa.html dosyasını tarayıcıda açın
+git clone https://github.com/canyurtgun/Glassmorphism-Navbar-UI.git
+cd Glassmorphism-Navbar-UI
+# index.html dosyasını tarayıcıda açın
 ```
 
 > **Not:** Logo için aynı dizinde `logo.png` dosyası bulunmalıdır. İsterseniz `logo-icon` sınıfına ait `<img>` etiketini kaldırabilir ya da farklı bir görsel yolu belirtebilirsiniz.
@@ -58,7 +58,7 @@ cd repo-adi
 
 ```
 /
-├── sayfa.html   # Tüm HTML, CSS ve JS tek dosyada
+├── index.html   # Tüm HTML, CSS ve JS tek dosyada
 └── logo.png     # Logo görseli (opsiyonel)
 ```
 
@@ -83,12 +83,12 @@ This project is a modern **glassmorphism navbar** component built from scratch u
 
 ### 🚀 Usage
 
-Clone the repository or simply open `sayfa.html` directly in your browser:
+Clone the repository or simply open `index.html` directly in your browser:
 
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-# Open sayfa.html in your browser
+git clone https://github.com/canyurtgun/Glassmorphism-Navbar-UI.git
+cd Glassmorphism-Navbar-UI
+# Open index.html in your browser
 ```
 
 > **Note:** A `logo.png` file should be present in the same directory. You can remove the `<img>` tag with the `logo-icon` class or point it to a different image path.
@@ -106,7 +106,7 @@ cd repo-name
 
 ```
 /
-├── sayfa.html   # All HTML, CSS and JS in a single file
+├── index.html   # All HTML, CSS and JS in a single file
 └── logo.png     # Logo image (optional)
 ```
 
